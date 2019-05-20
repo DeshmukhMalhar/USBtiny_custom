@@ -899,10 +899,10 @@ F 3 "" H 4900 6200 50  0001 C CNN
 $EndComp
 NoConn ~ 5200 6000
 $Comp
-L Connector:TestPoint_Flag TP?
+L Connector:TestPoint_Flag TP1
 U 1 1 5C460011
 P 950 2400
-F 0 "TP?" H 910 2403 50  0000 R CNN
+F 0 "TP1" H 910 2403 50  0000 R CNN
 F 1 "TestPoint_Flag" H 1300 2600 50  0000 R CNN
 F 2 "TestPoint:TestPoint_Pad_1.5x1.5mm" H 1150 2400 50  0001 C CNN
 F 3 "~" H 1150 2400 50  0001 C CNN
